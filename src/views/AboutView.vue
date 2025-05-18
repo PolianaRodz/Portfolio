@@ -11,19 +11,16 @@
 
         <div class="space-y-6 text-lg leading-relaxed text-gray-800">
           <p>
-            Olá! Eu me chamo Poliana Gomes Rodriguez e ainda estou na faculdade de Análise e
-            Desenvolvimento de Sistema. Estudo Front-End, e estou sempre mexendo com HTML, CSS e
-            JavaScript para tirar ideias do papel.
+            Na seção de Front-End, uso HTML, CSS e JavaScript para tirar ideias do papel e venho me aprofundando em Vue 3, Vite e Tailwind para criar interfaces modernas e responsivas. 
+            Também adoro testar novas bibliotecas e ferramentas que tragam mais agilidade e personalidade aos meus projetos.
           </p>
           <p>
-            Gosto de usar Tailwind pra montar páginas que funcionem bem em qualquer tela. Nos meus
-            projetos, já fiz desde sites com clima dos anos 2000 até pequenas aplicações que puxam
-            dados de APIs externas. Fora do código, me aventuro no pixel art com Aseprite e dou meus
-            primeiros passos criando jogos simples em Ren’Py.
+            Minhas primeiras lembranças de internet são dos anos 2000, com sites cheios de cores vibrantes e GIFs piscando — foi ali que nasceu meu interesse por criação online. 
+            Hoje, sempre busco trazer um toque nostálgico aos meus trabalhos, seja com um componente animado, um ícone retrô ou um layout colorido.
           </p>
           <p>
-            Estou aprendendo React, TypeScript e Python por conta própria, testando o quanto consigo
-            evoluir a cada dia.
+            No meu tempo livre, contribuo em projetos open-source, corrigindo bugs ou implementando pequenas melhorias que ajudem outras pessoas na web. 
+            Fora do código, faço pixel art no Aseprite para explorar aquela estética antiga e estou aprendendo Ren’Py (Python) para criar visual novels simples, unindo programação e narrativa de forma prática.
           </p>
         </div>
       </div>
